@@ -219,6 +219,7 @@ Press `Q` to exit the program.
 - Use gestures to control different hardware functions
 - Improve the stability of finger detection
 - Expand the system beyond LED control
+- Develop a gesture-controlled virtual piano that uses hand movements to trigger musical notes.
 
 ## Technologies
 
