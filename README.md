@@ -197,6 +197,10 @@ The webcam window will open and display the detected hand landmarks and current 
 
 Press `Q` to exit the program.
 
+## Demo
+
+[Watch the demo](media/demo.mp4)
+
 ## What I Learned
 
 - Real-time hand tracking using MediaPipe
